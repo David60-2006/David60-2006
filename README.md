@@ -1,12 +1,11 @@
-
-<div align="center">
-
-<!-- HERO BANNER -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=200&section=header&text=Dasari%20David%20Samuel Banner&fontSize=40&fontColor=ffffff"
   width="100%"
   alt="GitHub Profile Banner"
 />
+<div align="center">
+
+<!-- HERO BANNER -->
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/David60-2006">
