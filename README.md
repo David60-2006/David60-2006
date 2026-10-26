@@ -2,7 +2,11 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Dasari%20David%20Samuel&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Backend%20Developer%20%7C%20Cloud%20%26%20IoT&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Dasari David Samuel Banner" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=200&section=header&text=Dasari%20David%20Samuel Banner&fontSize=40&fontColor=ffffff"
+  width="100%"
+  alt="GitHub Profile Banner"
+/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/David60-2006">
